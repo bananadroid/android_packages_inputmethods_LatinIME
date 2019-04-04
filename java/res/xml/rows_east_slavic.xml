@@ -25,7 +25,7 @@
         latin:keyboardLayout="@xml/key_styles_common" />
     <include latin:keyboardLayout="@xml/row_number_keys" />
     <Row
-        latin:keyWidth="9.091%p"
+        latin:keyWidth="10%p"
     >
         <include
             latin:keyboardLayout="@xml/rowkeys_east_slavic1" />
